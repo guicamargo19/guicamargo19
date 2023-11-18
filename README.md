@@ -1,6 +1,14 @@
 ### Olá 👋
 
+Apaixonado pelo mundo digital e trabalhando há 12 anos na área de Tecnologia da Informação, tive a oportunidade de atuar em diversos setores do ramo. Minha experiência teve início na área de tutoria para crianças e idosos em uma escola de informática no interior de São Paulo, onde pude desenvolver habilidades de comunicação e empatia para com o cliente, durante 2 anos me especializei em atendimento e expressão humanizados.
 
+Sendo a maior parte da minha carreira no setor de Suporte técnico e Operacional e no setor de Infraestrutura e Redes, pude agregar grande conhecimento e contato com diversas tecnologias e situações de prioridade, como por exemplo, em virtualização, servidores de aplicação web, controladores de domínio, DNS, Firewall, dentre outras, atuando principalmente na área da saúde e em ambientes hospitalares.
+
+Após viver 4 anos no Japão, obtendo uma experiência inesquecível e vivenciando uma oportunidade incrível de conhecer outra cultura, eu decidi mais uma vez mudar o rumo da minha carreira para programação e desenvolvimento. Desde de o final de 2021, venho estudando Python Full Stack e me preparando para as oportunidades do mercado de traballho. 
+
+Atualmente, estou estudando na EBAC e utilizando diversas linguagens de programação para me qualificar para o mercado, como Django, HTML5 e CSS3, JavaScript, PostgreSQL, dentre outras.
+
+Meu objetivo de carreira profissional é atuar no mercado internacional, desbravando o mundo e vivenciando grandes oportunidades, como as quais já vivi.
 
 ### Habilidades
 
