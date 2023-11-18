@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**guicamargo19/guicamargo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Habilidades
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css3)
+![Django](https://img.shields.io/badge/django-blue?style=for-the-badge&logo=django)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicamargo19&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=guicamargo19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/guilherme-ferreira-camargo/)
