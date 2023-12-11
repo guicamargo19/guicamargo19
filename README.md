@@ -4,18 +4,23 @@ Apaixonado pelo mundo digital e trabalhando há 12 anos na área de Tecnologia d
 
 Sendo a maior parte da minha carreira no setor de Suporte técnico e Operacional e no setor de Infraestrutura e Redes, pude agregar grande conhecimento e contato com diversas tecnologias e situações de prioridade, como por exemplo, em virtualização, servidores de aplicação web, controladores de domínio, DNS, Firewall, dentre outras, atuando principalmente na área da saúde e em ambientes hospitalares.
 
-Após viver 4 anos no Japão, obtendo uma experiência inesquecível e vivenciando uma oportunidade incrível de conhecer outra cultura, eu decidi mais uma vez mudar o rumo da minha carreira para programação e desenvolvimento. Desde de o final de 2021, venho estudando Python Full Stack e me preparando para as oportunidades do mercado de traballho. 
+Após viver 4 anos no Japão, obtendo uma experiência inesquecível e vivenciando uma oportunidade incrível de conhecer outra cultura, eu decidi mudar o rumo da minha carreira para programação e desenvolvimento. Desde o final de 2021, venho estudando Desenvolvimento Full Stack Python e me preparando para as oportunidades do mercado de traballho. 
 
-Atualmente, estou estudando na EBAC e utilizando diversas linguagens de programação para me qualificar para o mercado, como Django, HTML5 e CSS3, JavaScript, PostgreSQL, dentre outras.
+Atualmente, estou estudando Desenvolvimento Full Stack Python na EBAC e utilizando diversas linguagens de programação para me qualificar para o mercado de trabalho, como Python Back-end, e Front-end, como tecnologias Web como HTML5 e CSS3, Django Web Framework, JavaScript, Bibliotecas jQuery, classes Bootstrap e banco de dados PostgreSQL, dentre outras.
 
-Meu objetivo de carreira profissional é atuar no mercado internacional, desbravando o mundo e vivenciando grandes oportunidades, como as quais já vivi.
+Meu objetivo de carreira profissional é estar qualificado e poder atuar com autoridade na área de desenvolvimento, colaborando, crescendo  e vivenciando grandes oportunidades, como as quais já vivi.
 
 ### Habilidades
 
 ![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css3)
-![Django](https://img.shields.io/badge/django-blue?style=for-the-badge&logo=django)
+![Bootstrap](https://img.shields.io/badge/bootstrap-green?style=for-the-badge&logo=bootstrap)
+![Gulp](https://img.shields.io/badge/gulp-black?style=for-the-badge&logo=gulp)
+![jQuery](https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=jquery)
+![PostgreSQL](https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/javascript-orange?style=for-the-badge&logo=javascript)
+![Django](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
 
 ### Detalhes
 
@@ -23,7 +28,7 @@ Meu objetivo de carreira profissional é atuar no mercado internacional, desbrav
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=site_gtatelie&theme=dark)](https://github.com/guicamargo19/site_gtatelie.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=site_bunka_store&theme=dark)](https://github.com/guicamargo19/site_bunka_store.git)
 
 
 ### Linguagens utilizadas
