@@ -6,7 +6,7 @@ Sendo a maior parte da minha carreira no setor de Suporte técnico e Operacional
 
 Após viver 4 anos no Japão, obtendo uma experiência inesquecível e vivenciando uma oportunidade incrível de conhecer outra cultura, eu decidi mudar o rumo da minha carreira para programação e desenvolvimento. Desde o final de 2021, venho estudando Desenvolvimento Full Stack Python e me preparando para as oportunidades do mercado de traballho. 
 
-Atualmente, estou estudando Desenvolvimento Full Stack Python na EBAC e utilizando diversas linguagens de programação para me qualificar para o mercado de trabalho, como Python Back-end, e Front-end, como tecnologias Web como HTML5 e CSS3, Django Web Framework, JavaScript, Bibliotecas jQuery, classes Bootstrap e banco de dados PostgreSQL, dentre outras.
+Atualmente estudo Desenvolvimento Full Stack Python na EBAC e utilizando diversas linguagens de programação para me qualificar para o mercado de trabalho, como Python Back-end, e Front-end, como tecnologias Web como HTML5 e CSS3, Django Web Framework, JavaScript, Bibliotecas jQuery, classes Bootstrap e banco de dados PostgreSQL, dentre outras.
 
 Meu objetivo de carreira profissional é estar qualificado e poder atuar com autoridade na área de desenvolvimento, colaborando, crescendo  e vivenciando grandes oportunidades, como as quais já vivi.
 
