@@ -6,9 +6,9 @@ Sendo a maior parte da minha carreira no setor de Suporte técnico e Operacional
 
 Após viver 4 anos no Japão, obtendo uma experiência inesquecível e vivenciando uma oportunidade incrível de conhecer outra cultura, eu decidi mudar o rumo da minha carreira para programação e desenvolvimento. Desde o final de 2021, venho estudando Desenvolvimento Full Stack Python e me preparando para as oportunidades do mercado de traballho. 
 
-Atualmente estudo Desenvolvimento Full Stack Python na EBAC e utilizando diversas linguagens de programação para me qualificar para o mercado de trabalho, como Python Back-end, e Front-end, como tecnologias Web como HTML5 e CSS3, Django Web Framework, JavaScript, Bibliotecas jQuery, classes Bootstrap e banco de dados PostgreSQL, dentre outras.
+Atualmente estudo Desenvolvimento Full Stack Python na EBAC e utilizando diversas linguagens de programação para me qualificar para o mercado de trabalho, como Python Back-end, e Front-end, como tecnologias Web como HTML5 e CSS3, Django Web Framework, JavaScript, Bibliotecas jQuery, VueJS, ReactJS, SASS, Gulp, Parcel, Vite, classes Bootstrap e banco de dados PostgreSQL, dentre outras.
 
-Meu objetivo de carreira profissional é estar qualificado e poder atuar com autoridade na área de desenvolvimento, colaborando, crescendo  e vivenciando grandes oportunidades, como as quais já vivi.
+Meu objetivo de carreira profissional é estar qualificado e poder atuar com autoridade na área de desenvolvimento, colaborando, crescendo  e vivenciando grandes oportunidades como as quais já vivi.
 
 ### Habilidades
 
@@ -21,6 +21,13 @@ Meu objetivo de carreira profissional é estar qualificado e poder atuar com aut
 ![PostgreSQL](https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/javascript-orange?style=for-the-badge&logo=javascript)
 ![Django](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
+![VueJS](https://img.shields.io/badge/vuejs-pink?style=for-the-badge&logo=vue.js)
+![ReactJS](https://img.shields.io/badge/reactjs-darkred?style=for-the-badge&logo=react)
+![SASS](https://img.shields.io/badge/sass-darkgrey?style=for-the-badge&logo=sass)
+![LESS](https://img.shields.io/badge/less-darkgreen?style=for-the-badge&logo=less)
+![babel](https://img.shields.io/badge/babel-darkblue?style=for-the-badge&logo=babel)
+![Vite](https://img.shields.io/badge/vite-yellow?style=for-the-badge&logo=vite)
+![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript)
 
 ### Detalhes
 
@@ -28,8 +35,7 @@ Meu objetivo de carreira profissional é estar qualificado e poder atuar com aut
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=site_bunka_store&theme=dark)](https://github.com/guicamargo19/site_bunka_store.git)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=calculadora_vue&theme=dark)](https://github.com/guicamargo19/calculadora_vue.git)
 
 ### Linguagens utilizadas
 
