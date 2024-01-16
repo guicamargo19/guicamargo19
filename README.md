@@ -1,12 +1,12 @@
 ### Olá 👋
 
-Apaixonado pelo mundo digital e trabalhando há 12 anos na área de Tecnologia da Informação, tive a oportunidade de atuar em diversos setores do ramo. Minha experiência teve início na área de tutoria para crianças e idosos em uma escola de informática no interior de São Paulo, onde pude desenvolver habilidades de comunicação e empatia para com o cliente, durante 2 anos me especializei em atendimento e expressão humanizados.
+  Apaixonado pelo mundo digital e trabalhando com Tecnologia da Informação há 12 anos, tive a oportunidade de atuar em diversos setores da área. Minha experiência teve início na área de tutoria para crianças e idosos em uma escola de informática no interior de São Paulo, onde pude desenvolver fortes habilidades de comunicação, durante 2 anos me especializei em atendimento e expressão humanizados.
 
-Sendo a maior parte da minha carreira no setor de Suporte técnico e Operacional e no setor de Infraestrutura e Redes, pude agregar grande conhecimento e contato com diversas tecnologias e situações de prioridade, como por exemplo, em virtualização, servidores de aplicação web, controladores de domínio, DNS, Firewall, dentre outras, atuando principalmente na área da saúde e em ambientes hospitalares.
+  Sendo a maior parte da minha carreira no setor de suporte técnico e operacional e também no setor de infraestrutura e redes, pude agregar grande conhecimento e contato com diversas tecnologias e situações de prioridade.
 
-Após viver 4 anos no Japão, obtendo uma experiência inesquecível e vivenciando uma oportunidade incrível de conhecer outra cultura, eu decidi mudar o rumo da minha carreira para programação e desenvolvimento. Desde o final de 2021, venho estudando Desenvolvimento Full Stack Python e me preparando para as oportunidades do mercado de traballho. 
+ Após uma vivência internacional de 4 anos no Japão, obtendo uma experiência inesquecível e vivenciando uma oportunidade incrível de conhecer outra cultura, eu decidi mudar o rumo da minha carreira para programação e desenvolvimento. Desde o final de 2021, venho estudando Desenvolvimento Full Stack Python e me preparando para as oportunidades do mercado de trabalho. 
 
-Atualmente estudo Desenvolvimento Full Stack Python na EBAC e utilizando diversas linguagens de programação para me qualificar para o mercado de trabalho, como Python Back-end, e Front-end, como tecnologias Web como HTML5 e CSS3, Django Web Framework, JavaScript, Bibliotecas jQuery, VueJS, ReactJS, SASS, Gulp, Parcel, Vite, classes Bootstrap e banco de dados PostgreSQL, dentre outras.
+  Atualmente estudo Desenvolvimento Full Stack Python na EBAC e utilizo diversas linguagens de programação para me qualificar para o mercado de trabalho, sendo tecnologias Back-end e Front-end como Python, HTML5 e CSS3, Django Web Framework, JavaScript, Bibliotecas jQuery, VueJS, ReactJS, SASS, Gulp, Parcel, Vite, classes Bootstrap e banco de dados PostgreSQL, dentre outras.
 
 Meu objetivo de carreira profissional é estar qualificado e poder atuar com autoridade na área de desenvolvimento, colaborando, crescendo  e vivenciando grandes oportunidades como as quais já vivi.
 
@@ -35,7 +35,8 @@ Meu objetivo de carreira profissional é estar qualificado e poder atuar com aut
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=calculadora_vue&theme=dark)](https://github.com/guicamargo19/calculadora_vue.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=calculadora_vue&theme=dark)](https://github.com/guicamargo19/calculadora_vue.git)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=imc_react&theme=dark)](https://github.com/guicamargo19/imc_react.git)
 
 ### Linguagens utilizadas
 
