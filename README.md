@@ -23,7 +23,6 @@
 ![ReactJS](https://img.shields.io/badge/reactjs-darkred?style=for-the-badge&logo=react)
 ![SASS](https://img.shields.io/badge/sass-darkgrey?style=for-the-badge&logo=sass)
 ![LESS](https://img.shields.io/badge/less-darkgreen?style=for-the-badge&logo=less)
-![babel](https://img.shields.io/badge/babel-darkblue?style=for-the-badge&logo=babel)
 ![Vite](https://img.shields.io/badge/vite-yellow?style=for-the-badge&logo=vite)
 ![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript)
 
@@ -33,10 +32,11 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=calculadora_vue&theme=dark)](https://github.com/guicamargo19/calculadora_vue.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=calculadora_vue&theme=light)](https://github.com/guicamargo19/calculadora_vue.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=imc_react&theme=dark)](https://github.com/guicamargo19/imc_react.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=efood&theme=dark)](https://github.com/guicamargo19/efood.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=eplay&theme=dark)](https://github.com/guicamargo19/eplay.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=agenda&theme=dark)](https://github.com/guicamargo19/agenda.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=blog&theme=light)](https://github.com/guicamargo19/blog.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=efood&theme=light)](https://github.com/guicamargo19/efood.git)
 
 ### Linguagens utilizadas
 
