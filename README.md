@@ -65,6 +65,9 @@ Sou um engenheiro de computação altamente motivado, com forte raciocínio anal
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=agenda&theme=dark)](https://github.com/guicamargo19/agenda.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=blog&theme=light)](https://github.com/guicamargo19/blog.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=efood&theme=light)](https://github.com/guicamargo19/efood.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=ecommerce&theme=dark)](https://github.com/guicamargo19/ecommerce.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=registro_de_ponto&theme=dark)](https://github.com/guicamargo19/registro_de_ponto.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=calculadora_python&theme=light)](https://github.com/guicamargo19/calculadora_python.git)
 
 ### Linguagens utilizadas
 
