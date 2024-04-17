@@ -1,8 +1,8 @@
-### Olá 👋 seja bem-vindo!!
-
 <img style="width: 10%" src="https://servidor-estatico-tan.vercel.app/gc.png">
 
 Visite meu [PORTFÓLIO](https://portfolio-pink-omega-63.vercel.app/)
+
+### Olá 👋 seja bem-vindo!
 
 #### Verifique os arquivos README.md para maiores instruções sobre as funções e atividades realizadas em cada projeto.
 
