@@ -8,7 +8,7 @@ Visite meu [PORTFÓLIO](https://portfolio-pink-omega-63.vercel.app/)
 
 ## Sobre mim
 
-Sou um engenheiro de computação altamente motivado, com forte raciocínio analítico e paixão por programação. Estou em transição de carreira para me tornar um Desenvolvedor Full Stack Python ativo no mercado e busco meu primeiro cargo profissional nesta área. Nos últimos 3 anos, aprimorei minhas habilidades de programação construindo aplicações web e APIs usando Django com Python, sites responsivos e focados em acessibilidade utilizando HTML, CSS e JavaScript, jQuery e Bootstrap, e também projetos complexos em ReactJS e Vue.js, criando integrações entre Back-end e Front-end. Minha experiência em infraestrutura de TI, rede e suporte me tornou um profissional com excelentes habilidades em resolução de problemas, comunicação e trabalho em equipe, todas vitais para um desenvolvedor de sucesso.
+Sou um engenheiro de computação e dev Full Stack Python com forte raciocínio analítico e paixão por programação. Nos últimos 3 anos, aprimorei minhas habilidades de programação construindo aplicações web e REST APIs usando Django com Python, sites responsivos e focados em acessibilidade utilizando HTML, CSS e JavaScript, jQuery e Bootstrap, e também projetos complexos em ReactJS e Vue.js, criando integrações entre Back-end e Front-end. Minha experiência em infraestrutura de TI, rede e suporte me tornou um profissional com excelentes habilidades em resolução de problemas, comunicação e trabalho em equipe, todas vitais para um desenvolvedor de sucesso.
 
 **Front-end**
 
@@ -62,13 +62,13 @@ Back-end
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=calculadora_vue&theme=light)](https://github.com/guicamargo19/calculadora_vue.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=fullstack_rest_api_templates&theme=light)](https://github.com/guicamargo19/fullstack_rest_api_templates.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=imc_react&theme=dark)](https://github.com/guicamargo19/imc_react.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=agenda&theme=dark)](https://github.com/guicamargo19/agenda.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=blog_devs_place&theme=light)](https://github.com/guicamargo19/blog_devs_place.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=efood&theme=light)](https://github.com/guicamargo19/efood.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=ecommerce&theme=dark)](https://github.com/guicamargo19/ecommerce.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=registro_de_ponto&theme=dark)](https://github.com/guicamargo19/registro_de_ponto.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=fullstack_rest_api_react&theme=dark)](https://github.com/guicamargo19/fullstack_rest_api_react.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guicamargo19&repo=calculadora_python&theme=light)](https://github.com/guicamargo19/calculadora_python.git)
 
 ### Linguagens utilizadas
