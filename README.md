@@ -4,35 +4,42 @@ Visite meu [PORTFÓLIO](https://portfolio-pink-omega-63.vercel.app/)
 
 ### Olá 👋 seja bem-vindo!
 
-#### Verifique os arquivos README.md para maiores instruções sobre as funções e atividades realizadas em cada projeto.
+#### Verifique os arquivos README.md para maiores instruções sobre as atividades realizadas e finalidades de cada projeto.
 
 ## Sobre mim
 
-Sou um engenheiro de computação e dev Full Stack Python com forte raciocínio analítico e paixão por programação. Nos últimos 3 anos, aprimorei minhas habilidades de programação construindo aplicações web e REST APIs usando Django com Python, sites responsivos e focados em acessibilidade utilizando HTML, CSS e JavaScript, jQuery e Bootstrap, e também projetos complexos em ReactJS e Vue.js, criando integrações entre Back-end e Front-end. Minha experiência em infraestrutura de TI, rede e suporte me tornou um profissional com excelentes habilidades em resolução de problemas, comunicação e trabalho em equipe, todas vitais para um desenvolvedor de sucesso.
+Sou engenheiro de computação e desenvolvedor Full Stack especializado em Python, com uma sólida formação em programação e uma profunda paixão por desenvolvimento de software. Atualmente, minha atuação se concentra em projetar e desenvolver soluções robustas utilizando Python, com foco em frameworks e tecnologias que promovem a eficiência e a escalabilidade de sistemas.
 
-**Front-end**
+Nos últimos anos, refinei minhas competências na construção de aplicações web e APIs, utilizando Django com Python para o back-end e tecnologias como HTML, CSS e JavaScript para o front-end. Tenho experiência em frameworks modernos como ReactJS e Vue.js, além de criar integrações eficazes entre front-end e back-end.
 
-- Domínio de HTML5, CSS3 e JavaScript
-- Layouts Front-end, Bootstrap, CSS Modules, jQuery, e Vue.js framework
-- React e Biblioteca React Redux e estilização com Styled Components
-- SASS e LESS como pré-processadores de CSS
-- Criação de microsserviços e automatização de tarefas com Gulp ou Grunt
-- Testes unitários com Jest e testes de integração com Cypress
-- Gerenciamento de pacotes com NPM, Yarn e Vite para projetos com ReactjS ou Vue.js no
-ambiente de desenvolvimento.
+Recentemente, expandi meu conjunto de habilidades para incluir o uso da AWS, com experiência na criação e gerenciamento de Lambdas e Step Functions, o que tem me permitido otimizar a execução e orquestração de tarefas em ambientes escaláveis e eficientes.
 
-Back-end
+Minha experiência também abrange o desenvolvimento e a manutenção de infraestrutura de TI, redes e suporte técnico, aspectos que contribuíram para o aprimoramento das minhas habilidades de resolução de problemas, comunicação e trabalho em equipe, qualidades essenciais para o sucesso no desenvolvimento de software.
 
-- Python 3
-- Servidores de aplicação Linux
-- Docker e Docker-compose
-- Integração Front-end e Back-end e consumo de APIs
-- CI/CD (Continuous Integration e Continuous Delivery) com GitHub Actions
-- D jango Rest Framework e Rest APIs
-- Implantação de software com abordagem DevOps
-- Experiência com SQL, banco de dados PostgreSQL, MySQL e SQLite
-- Testes com D jango
-- Versionamento com Git
+Competências Front-end:
+
+- Proficiência em HTML5, CSS3 e JavaScript
+- Criação de layouts front-end com Bootstrap, CSS Modules e Styled Components
+- Experiência frameworks como React e Vue.js
+- Conhecimento em pré-processadores CSS como SASS e LESS
+- Testes unitários com Jest e de integração com Cypress
+
+Competências Back-end:
+
+- Python
+- Framework Django
+- Desenvolvimento de APIs com Django Rest Framework
+- Administração de servidores de aplicação
+- Banco de dados SQL como Redshift, PostgreSQL, Athena e Aurora.
+- Versionamento com GitHub
+
+Competências DevOps:
+
+- Experiência com AWS, incluindo a criação e gerenciamento de Lambdas, Step Functions e EC2.
+- Implementação de integração contínua e entrega contínua (CI/CD) com CircleCI
+- Uso de Docker e Docker-compose para containerização em integração com ECS da AWS.
+- Automação de tarefas com Gulp e Grunt
+- Gestão de soluções, Backlog e Roadmap com Boards de Scrum e Kanban usando Jira
 
 ### Habilidades
 
@@ -41,19 +48,17 @@ Back-end
 ![CSS](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-green?style=for-the-badge&logo=bootstrap)
 ![Gulp](https://img.shields.io/badge/gulp-black?style=for-the-badge&logo=gulp)
-![jQuery](https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=jquery)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-purple?style=for-the-badge&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/javascript-orange?style=for-the-badge&logo=javascript)
 ![Django](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
-![VueJS](https://img.shields.io/badge/vuejs-pink?style=for-the-badge&logo=vue.js)
-![ReactJS](https://img.shields.io/badge/reactjs-darkred?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/vue.js-pink?style=for-the-badge&logo=vue.js)
+![React](https://img.shields.io/badge/react-darkred?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/redux-darkblue?style=for-the-badge&logo=redux)
 ![SASS](https://img.shields.io/badge/sass-darkgrey?style=for-the-badge&logo=sass)
 ![LESS](https://img.shields.io/badge/less-darkgreen?style=for-the-badge&logo=less)
-![Vite](https://img.shields.io/badge/vite-yellow?style=for-the-badge&logo=vite)
 ![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript)
-![NPM](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm)
-![Google Cloud](https://img.shields.io/badge/googlecloud-dark?style=for-the-badge&logo=googlecloud)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-dark?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
 
 ### Detalhes
